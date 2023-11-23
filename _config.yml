@@ -4,7 +4,7 @@ title: Mia's Portfolio
 description: A gallery of images for an artist's portfolio, built with Jekyll
 
 url: "https://mia.flodin.net"
-baseurl: "https://mia.flodin.net"
+baseurl: ""
 
 github_username: "Mia Flodin"
 repository: "https://mia.flodin.net"
