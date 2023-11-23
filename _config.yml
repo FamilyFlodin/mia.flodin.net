@@ -4,10 +4,10 @@ title: Mia's Portfolio
 description: A gallery of images for an artist's portfolio, built with Jekyll
 
 url: "https://mia.flodin.net"
-baseurl: ""
+baseurl: "https://mia.flodin.net"
 
-github_username: "FamilyFlodin"
-repository: "FamilyFlodin/mia.flodin.net"
+github_username: "Mia Flodin"
+repository: "https://mia.flodin.net"
 
 google_analytics_key: ""
 
