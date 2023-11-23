@@ -1,25 +1,25 @@
 ### Site metadata
 
-title: Artist's Portfolio
+title: Mia's Portfolio
 description: A gallery of images for an artist's portfolio, built with Jekyll
 
-url: "https://artists-portfolio.netlify.app"
+url: "https://mia.flodin.net"
 baseurl: ""
 
-github_username: "MichaelCurrin"
-repository: "MichaelCurrin/artists-portfolio"
+github_username: "FamilyFlodin"
+repository: "FamilyFlodin/mia.flodin.net"
 
 google_analytics_key: ""
 
 # For SEO tag.
 logo: /siteicon.png
 author:
-  name: Michael Currin
+  name: Mia Flodin
   twitter:
 social:
-  name: Artist's Portfolio
+  name: Mia's Portfolio
   links:
-    - https://github.com/MichaelCurrin/artists-portfolio
+    - https://mia.flodin.net
 
 ### Build settings
 
